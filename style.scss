@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: #27373a;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: #9aaf73;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: #76d392;
   font-weight: bold;
 
   line-height: 1.7;
@@ -117,7 +117,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #16bde7;
 }
 
 // Specify the color of the selection
@@ -192,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #944f32;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #997a6d;
   font-size: 16px;
 
   @include mobile {
