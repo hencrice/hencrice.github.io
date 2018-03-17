@@ -18,15 +18,17 @@ To enable the tagging mechanisms so that you can easily group your posts based o
 
 In “4. Display the Tags of a Post”, the approach suggested will display an empty list (i.e. [ ]) even if the post has no tag attached to it. Just add an `if` clause at the beginning to fix it:
 
-```
+{% highlight ruby linenos %}
+{% raw %}
 {% if page.tags.size > 0 %}
 <span >[ {% for tag in page.tags %} {% capture tag_name %}{{ tag }}{% endcapture %}
-<a class="postTag" href="/tag/{{ tag_name }}">
-    {{ tag_name }}&nbsp;</a>
-{% endfor %} ]
+    <a class="postTag" href="/tag/{{ tag_name }}">{{ tag_name }}&nbsp;</a>
+    {% endfor %}
+    ]
 </span>
-{% endif %}
-```
+{% endif % }
+{% endraw %}
+{% endhighlight %}
 
 ### Non-Standradized Tag
 
