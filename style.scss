@@ -229,7 +229,7 @@ nav {
     color: #997a6d;
     text-align: right;
     font-weight: 300;
-    letter-spacing: 1px;
+    letter-spacing: 0.025em;;
 
     @include mobile {
       margin: 0 10px;
@@ -248,9 +248,13 @@ nav {
 }
 
 .postTag {
- font-size: 15px;
- color: #997a6d;
- font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  color: #271b16;
+  background-color: #9c8d86;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 0.025em;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
 }
 
 .posts > .post:last-child {

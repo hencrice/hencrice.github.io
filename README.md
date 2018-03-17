@@ -38,8 +38,6 @@ Making a change to _config.yml (or any file in your repository) will force GitHu
 > 2. Use a third party GitHub content editor, like [Prose by Development Seed](http://prose.io). It's optimized for use with Jekyll making markdown editing, writing drafts, and uploading images really easy.
 > 3. Clone down your repository and make updates locally, then push them to your GitHub repository.
 
-![_config.yml](/images/config.png "_config.yml")
-
 ### Step 3) Publish your first blog post
 
 Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
@@ -70,22 +68,22 @@ It covers:
 
 ## Jekyll Now Features
 
-✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog  
-✓ Fully responsive and mobile optimized base theme (**[Theme Demo](http://jekyllnow.com)**)  
-✓ Sass/Coffeescript support using Jekyll 2.0  
-✓ Free hosting on your GitHub Pages user site  
-✓ Markdown blogging  
-✓ Syntax highlighting  
-✓ Disqus commenting  
-✓ Google Analytics integration  
-✓ SVG social icons for your footer  
-✓ 3 http requests, including your avatar  
+✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog
+✓ Fully responsive and mobile optimized base theme (**[Theme Demo](http://jekyllnow.com)**)
+✓ Sass/Coffeescript support using Jekyll 2.0
+✓ Free hosting on your GitHub Pages user site
+✓ Markdown blogging
+✓ Syntax highlighting
+✓ Disqus commenting
+✓ Google Analytics integration
+✓ SVG social icons for your footer
+✓ 3 http requests, including your avatar
 
 ✘ No installing dependencies
-✘ No need to set up local development  
-✘ No configuring plugins  
-✘ No need to spend time on theming  
-✘ More time to code other things ... wait ✓!  
+✘ No need to set up local development
+✘ No configuring plugins
+✘ No need to spend time on theming
+✘ More time to code other things ... wait ✓!
 
 ## Questions?
 
