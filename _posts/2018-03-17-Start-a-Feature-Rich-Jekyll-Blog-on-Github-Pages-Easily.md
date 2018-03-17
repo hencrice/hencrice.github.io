@@ -8,11 +8,11 @@ For the past week I had some fun setting up my blog using Github pages. I tried 
 
 ## Forked jekyll-now
 
-Fork https://github.com/barryclark/jekyll-now and rename the resulting repository as `<userName>.github.io`. You should have a basic blog up and running immediately after doing so.
+Fork [jekyll-now](https://github.com/barryclark/jekyll-now) and rename the resulting repository as `<userName>.github.io`. You should have a basic blog up and running immediately after doing so.
 
 ## Enable Tags
 
-To enable the tagging mechanisms so that you can easily group your posts based on arbitrary categories, I followed the step-by-step tutorials on http://longqian.me/2017/02/09/github-jekyll-tag/. There are a few minor issues that I fixed in my Github Page repository. Here's the list:
+To enable the tagging mechanisms so that you can easily group your posts based on arbitrary categories, I followed the step-by-step tutorials [here](http://longqian.me/2017/02/09/github-jekyll-tag/). There are a few minor issues that I fixed in my Github Page repository. Here's the list:
 
 ### Empty Tag List
 
