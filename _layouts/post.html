@@ -6,7 +6,7 @@ layout: default
   <h1>{{ page.title }} <div class="date"> {{ page.date | date: "%B %e, %Y" }}</div></h1>
   {% if page.tags.size > 0 %}
   <span >[ {% for tag in page.tags %} {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a class="postTag" href="/tag/{{ tag_name }}"><code class="highligher-rouge">{{ tag_name }}</code>&nbsp;</a>
+    <a class="postTag" href="/tag/{{ tag_name }}"><code class="highligher-rouge">{{ tag_name }}</code></a>
     {% endfor %} ]
   </span>
   {% endif %}
