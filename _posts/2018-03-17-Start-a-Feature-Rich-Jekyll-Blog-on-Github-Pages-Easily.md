@@ -44,5 +44,5 @@ Visit Google Analytics and get a tracking code and drop it in like [this](https:
 
 ## References
 
-1. https://github.com/barryclark/jekyll-now
-2. http://longqian.me/2017/02/09/github-jekyll-tag/
+1. [https://github.com/barryclark/jekyll-now](https://github.com/barryclark/jekyll-now)
+2. [http://longqian.me/2017/02/09/github-jekyll-tag/](http://longqian.me/2017/02/09/github-jekyll-tag/)
