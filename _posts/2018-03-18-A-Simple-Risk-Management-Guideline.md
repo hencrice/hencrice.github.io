@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Simple Risk Management Guideline
-tags: Life StudyNotes
+tags: Life
 ---
 
 I recently picked up a guideline from the book, “The Top 10 Distinctions Between Millionaires and the Middle Class”. It is particularly helpful when it comes to making tough decisions. Ask yourself the following 3 questions:
