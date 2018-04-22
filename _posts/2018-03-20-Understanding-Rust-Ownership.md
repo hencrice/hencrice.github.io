@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Rust Ownership
-tags: Rust TheRustProgrammingLanguageBook
+tags: Rust
 ---
 
 This is a series of study notes I took while learning Rust.
